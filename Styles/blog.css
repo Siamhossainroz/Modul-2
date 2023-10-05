@@ -1,3 +1,18 @@
+.header{
+    height: 300px;
+    /* background-color: bisque; */
+    /* background-image: url(animal.png); */
+    /* background-repeat: none; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    /* background-size: 500px; */
+    /* background-image: url(../Picture/pic-3.avif); */
+    background-image: url(../Picture/image-2/image-3/pic-4.avif);
+
+}
+
 h3{
     font-size: 30px;
     text-decoration: overline;
@@ -27,4 +42,9 @@ h3{
 
 li{
     display: inline;
+}
+.akram{
+    border: 3px solid peru;
+    display: inline-block;
+    height: 50px;
 }
