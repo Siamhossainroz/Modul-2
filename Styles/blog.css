@@ -1,0 +1,30 @@
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.blog{
+    margin: 40px;
+    border: 10px solid purple;
+    box-shadow: 10px 10px 10px red;
+}
+
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+.incedent{
+    border: 4px solid hwb(189 0% 50%);
+    margin: 20px;
+    display: inline;
+    /* display: block;   */
+    /* height: 200px; */
+    /* // height can only work when i use     display    */
+} 
+
+li{
+    display: inline;
+}
